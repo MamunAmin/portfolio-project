@@ -1,0 +1,32 @@
+{
+  "name": "portfolio-project",
+  "version": "1.0.0",
+  "description": "a portfolio project with bootstrap-5 and SCSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MamunAmin/portfolio-project.git"
+  },
+  "keywords": [
+    "portfolio",
+    "bootstrap-v5",
+    "scss"
+  ],
+  "author": "mamun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MamunAmin/portfolio-project/issues"
+  },
+  "homepage": "https://github.com/MamunAmin/portfolio-project#readme",
+  "devDependencies": {
+    "sass": "^1.45.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
+    "autoprefixer": "^10.4.0",
+    "bootstrap": "^5.1.3"
+  }
+}
